@@ -1,0 +1,14 @@
+#spring.profiles.active = uat
+
+db:
+  url : jdbc:mysql://localhost:3306/empschema?useUnicode=yes&characterEncoding=UTF-8
+  username : root
+  password : root
+  database:
+     name: mysql
+server:
+  servlet:
+    context-path: /employee-service
+  port: 8081
+
+ 
