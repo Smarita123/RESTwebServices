@@ -12,7 +12,7 @@
 	<groupId>com.rest.sample</groupId>
 	<artifactId>RESTwebServices</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>employee</name>
+	<name>RESTwebServices</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
